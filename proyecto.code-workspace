@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\login_register"
+		},
+		{
+			"path": "..\\..\\..\\Users\\yulia\\OneDrive\\Escritorio\\PRESENTACION-FINAL\\proyecto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "formulario"
+	}
+}
